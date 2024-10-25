@@ -8,7 +8,7 @@ Simple example of how Python backend can works with frontend
 		- source **your_virtual_environment_name**/bin/activate
 	- For Windows:
 		- **your_virtual_environment_name**\Scripts\activate.bat
-2) устанавливаем зависимости: pip install -r requirements 
+2) устанавливаем зависимости: pip install -r requirements.txt 
 3) запускаем проект uvicorn simple-api:app --reload
 
 Документация и примеры работы доступны по адресу http://127.0.0.1:8000/docs
